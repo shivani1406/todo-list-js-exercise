@@ -41,7 +41,6 @@ function logTaskState(task) {
 function completeTask(task) {
   task.complete = true;
 }
-
 newTask("Clean Cat Litter"); // task 0
 newTask("Do Laundry"); // task 1
 
